@@ -71,6 +71,8 @@
     NSLog(@"新分支");
     
     NSLog(@"卡的一比");
+    
+    NSLog(@"先pull再commit");
 //    UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
 //    button.backgroundColor = [UIColor redColor];
 //    [button setTitle:@"授权" forState:UIControlStateNormal];
