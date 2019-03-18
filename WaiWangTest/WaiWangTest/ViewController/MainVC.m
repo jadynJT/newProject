@@ -68,6 +68,9 @@
     
     [self regJSApi];
     
+    NSLog(@"新分支");
+    
+    
 //    UIButton *button = [UIButton buttonWithType:UIButtonTypeCustom];
 //    button.backgroundColor = [UIColor redColor];
 //    [button setTitle:@"授权" forState:UIControlStateNormal];
